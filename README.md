@@ -15,4 +15,3 @@
 - <h3 align="left"> Contribution Stats:</h3>
 <div><img src="https://activity-graph.herokuapp.com/graph?username=dubey2709&theme=react-dark"></div>
 ![gitartwork](gitartwork.svg)
-- <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Pranjal%20Dubey!"></a>
