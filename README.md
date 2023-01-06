@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjal Dubey</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-<h3 align = "center">![great](https://user-images.githubusercontent.com/96309032/210978355-75e9d668-2356-4c80-8801-0cc29d34ee65.gif)</h3>
+<h3 align="center">A passionate 19 years old software developer from India</h3>
+<p align="middle"> <img src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" alt="dubey2709" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubey2709&label=Profile%20views&color=0e75b6&style=flat" alt="dubey2709" /> </p>
 
