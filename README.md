@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranjal Dubey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<h3 align = "center">![great](https://user-images.githubusercontent.com/96309032/210978355-75e9d668-2356-4c80-8801-0cc29d34ee65.gif)</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubey2709&label=Profile%20views&color=0e75b6&style=flat" alt="dubey2709" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose and DSA**
