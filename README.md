@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose and DSA**
 
-- 👨‍💻 All of my projects are available at [portfolio-dubey2709.vercel.app](portfolio-dubey2709.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-dubey2709.vercel.app
 
 - 💬 Ask me about **Mobile Development, Competitive Programming and Open Source**
 
