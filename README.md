@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubey2709&label=Profile%20views&color=0e75b6&style=flat" alt="dubey2709" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Jetpack Compose and DSA**
+- 🌱 I’m currently learning **Flutter, Android and DSA**
 
 - 👨‍💻 All of my projects are available at https://portfolio-dubey2709.vercel.app
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dypranjal3002@gmail.com**
 
-- ⚡ Fun fact **i think i m funny**
+- ⚡ Fun fact **I think I can Code**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubey2709" alt="dubey2709" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
